@@ -1,2 +1,2 @@
-This is another line. 
-Thank you! 
+Hello world! 
+My name is John. 

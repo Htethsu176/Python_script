@@ -22,9 +22,10 @@ def delete_file(target_line):
         for line in lines:
             if target_line not in line:
                 file.write(line)
-
-create_file()
-read_file()
-update_file()
-delete_file("twenty")
-read_file()
+                
+if __name__ == "__main__":
+    create_file()
+    read_file()
+    update_file()
+    delete_file("twenty")
+    read_file()
