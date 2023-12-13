@@ -1,0 +1,5 @@
+cid,mac,device_name,model,zone_name,mgmt_ip,2GHz_public_enable,2GHz_public_hidden,5GHz_public_enable,5GHz_public_hidden,5GHz_cpe_enable,5GHz_cpe_hidden,last_seen
+LAQ0129597,28-30-AC-7F-C0-19,Testing3,LAQ,NameChangeTesting,172.22.90.9/19,Yes,No,Yes,No,Yes,Yes,2023/07/07 10:16:30 AM
+LAQ0931328,28-30-AC-7F-D7-75,28-30-AC-7F-D7-75,LAQ,LAP Testing,172.16.251.154/23,No,No,No,No,Yes,Yes,2023/03/14 11:19:23 AM
+LAQ0294988,28-30-AC-7F-D5-E7,Frontiir AP,LAQ,LAP Testing,192.168.0.142/24,Yes,No,Yes,No,Yes,Yes,2023/07/26 08:44:59 AM
+LAQ0195660,28-30-AC-7F-D5-79,Frontiir AP,LAQ,default,172.22.90.9/19,Yes,No,Yes,No,Yes,Yes,2023/07/05 08:47:01 AM

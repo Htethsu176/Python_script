@@ -1,0 +1,10 @@
+cid,mac,device_name,model,zone_name,mgmt_ip,2GHz_public_enable,2GHz_public_hidden,5GHz_public_enable,5GHz_public_hidden,5GHz_cpe_enable,5GHz_cpe_hidden,last_seen
+LAC0276935,28-30-AC-60-00-1A,,LCAC,default,192.168.0.103/24,Yes,No,Yes,No,Yes,Yes,2023/07/07 10:45:29 AM
+LAC0273993,28-30-AC-60-00-56,Testing2,LCAC,QA Testing_NZT,192.168.0.103/24,Yes,No,Yes,No,Yes,Yes,2023/07/07 02:19:34 PM
+LAC0690943,28-30-AC-60-1E-ED,Frontiir AP,LCAC,default,192.168.0.173/24,Yes,No,Yes,No,Yes,Yes,2023/02/10 04:23:04 PM
+LAC0488609,28-30-AC-60-18-F2,Frontiir AP,LCAC,default,192.168.0.119/24,Yes,No,Yes,No,Yes,Yes,2023/02/03 08:02:58 AM
+LAC0663060,28-30-AC-60-0D-BA,Frontiir AP,LCAC,default,192.168.0.195/24,Yes,No,Yes,No,Yes,Yes,2023/04/06 04:32:46 PM
+LAC0268640,28-30-AC-60-20-B5,Frontiir AP,LCAC,default,192.168.0.141/24,Yes,No,Yes,No,Yes,Yes,2023/06/30 02:35:53 PM
+LAC0008645,28-30-AC-60-20-C4,Frontiir AP,LCAC,default,192.168.0.146/24,Yes,No,Yes,No,Yes,No,2023/04/06 04:32:16 PM
+LAC0066661,28-30-AC-00-07-D5,Frontiir AP,LCAC,default,192.168.0.188/24,Yes,No,Yes,No,Yes,Yes,2023/07/25 09:50:39 AM
+LAC0157416,28-30-AC-60-1D-0C,Frontiir AP,LCAC,default,192.168.0.103/24,Yes,No,Yes,No,Yes,Yes,2023/07/26 03:49:37 PM
